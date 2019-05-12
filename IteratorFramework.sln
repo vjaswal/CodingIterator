@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorFramework", "IteratorFramework\IteratorFramework.csproj", "{09615A0A-319D-41F1-BC42-3814026C9867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorFrameworkTest", "IteratorFrameworkTest\IteratorFrameworkTest.csproj", "{3C7BBF10-7A21-47A1-AEBF-9B25CA3962D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09615A0A-319D-41F1-BC42-3814026C9867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09615A0A-319D-41F1-BC42-3814026C9867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09615A0A-319D-41F1-BC42-3814026C9867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09615A0A-319D-41F1-BC42-3814026C9867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7BBF10-7A21-47A1-AEBF-9B25CA3962D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7BBF10-7A21-47A1-AEBF-9B25CA3962D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7BBF10-7A21-47A1-AEBF-9B25CA3962D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7BBF10-7A21-47A1-AEBF-9B25CA3962D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB97B653-406D-4957-89C0-ADB8D8E3A835}
+	EndGlobalSection
+EndGlobal
